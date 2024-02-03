@@ -1,5 +1,5 @@
-import 'package:news_apps/features/core/resources/data_state.dart';
-import 'package:news_apps/features/core/usecase/usecase.dart';
+import 'package:news_apps/core/resources/data_state.dart';
+import 'package:news_apps/core/usecase/usecase.dart';
 import 'package:news_apps/features/daily_news/domain/entities/article.dart';
 import 'package:news_apps/features/daily_news/domain/repository/article_repository.dart';
 

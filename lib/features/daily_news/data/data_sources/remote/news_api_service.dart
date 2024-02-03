@@ -1,4 +1,4 @@
-import 'package:news_apps/features/core/constants/constant.dart';
+import 'package:news_apps/core/constants/constant.dart';
 import 'package:news_apps/features/daily_news/data/models/article_models.dart';
 import 'package:retrofit/retrofit.dart';
 import 'package:dio/dio.dart';
